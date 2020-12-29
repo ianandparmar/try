@@ -6,7 +6,7 @@
   <body>
     <h1>Content</h1>
     <ol>
-      <li>Chapter 1</li>
+      <a href=""><li>Chapter 1</li></a>
       <li>Chapter 2</li>
       <li>Chapter 3</li>
     </ol>
